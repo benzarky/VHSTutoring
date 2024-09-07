@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734655704430",
+    "project_id": "vhstutoring-2620a",
+    "storage_bucket": "vhstutoring-2620a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734655704430:android:feefa4b5464282d225a57f",
+        "android_client_info": {
+          "package_name": "com.example.vhstutoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUXdarTCxAoq5Fk-HtKwV2ZNOGeqI_l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
